@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <div className="container">
         <div className="row">
-          <img width={"1500"} height={"200"} src="blog-header-2048x315.webp" alt="..." />
+          <img width={"1500"} height={"200"} src="src/blog-header-2048x315.webp" alt="..." />
           <BrowserRouter>
             <nav className="navbar-nav" role="navigation">
               <div className="container-fluid">
