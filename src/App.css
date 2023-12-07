@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* =================================== */
+
+.card{
+  text-align: left;
+}
+
+.card-link{
+  margin: auto;
+  color: #0aaa01;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: .9em ;
+  font-weight: 600;
+}
